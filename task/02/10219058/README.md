@@ -30,7 +30,7 @@ Isep Robi Awaludin
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ cara menerapkan metode monte carlo
 
 
 ## contoh program
@@ -47,12 +47,12 @@ Hasilnya adalah
 
 
 ## cara perkuliahan
-+ Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
++ Menurut saya perkuliahan sebaiknya selalu dilakukan di labcom, supaya mahasiswa bisa secara langsung melakukan simulasi materi yang disampaikan. 
 
 
 ## topik sistem fisis
-+ Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
++ 
 
 
 ## simulasi dan visualisasi
-+ Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
++ Saya tertarik, karena saya selaku mahasiswa fisika banyak menggunakan simulasi dan visualisasi dalam melakukan berbagai hal penelitian. sehingga dapat mendukung proses penelitian
