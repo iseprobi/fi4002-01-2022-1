@@ -38,6 +38,41 @@ Isep Robi Awaludin
 
 ```python
 # contoh program python
+import math 
+import numpy as np
+import matplotlib.pyplot as plt
+
+#Deklarasi fungsi
+
+#Deklarasi variabel
+r=1
+l=10
+c=10
+
+
+#set parameter
+n=10000
+dt=0.01
+
+#bikin array
+t=[0 for i in range(1,n+1)]
+v=[10 for i in range(1,n+1)]
+u=[0.5 for i in range(1,n+1)]
+
+#main code
+for i in range(1,n-1):
+    t[i+1]=t[i]+dt
+    v[i+1]=v[i]+dt*u[i]-0.5*(dt**2)*((r/l)*u[i]+(1/l*c)*v[i])
+    u[i+1]=u[i]-dt*((r/l)*u[i]+(1/l*c)*v[i])+0.5*(dt**2)*((r**2/l**2)*u[i]+(r/(c*l**2))*v[i]-(1/l*c)*u[i])
+
+#linear space
+T=np.linspace(0,99.98,10000)
+V=10*np.exp(-2*T)+5*np.exp(-2*T)
+
+
+#plot
+plt.plot(T,V,t,v)
+plt.show()
 ```
 
 Hasilnya adalah
