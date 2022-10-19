@@ -51,7 +51,7 @@ Hasilnya adalah
 
 
 ## topik sistem fisis
-+ 
++ reaksi fisi nuklir dalam reaktor nuklir generasi IV. Untuk melakukan pengembangan reaktor dengan metode simulasi. dengan cara tersebut tidak memerlukan banyak biaya yang keluar
 
 
 ## simulasi dan visualisasi
