@@ -77,9 +77,7 @@ plt.show()
 
 Hasilnya adalah
 
-```
-
-```
+<a href="https://ibb.co/h1mhpCt"><img src="https://i.ibb.co/dJ51n7z/Hasil.jpg" alt="Hasil" border="0"></a>
 
 
 ## cara perkuliahan
