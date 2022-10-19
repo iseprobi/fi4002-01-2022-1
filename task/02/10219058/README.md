@@ -18,15 +18,15 @@ Isep Robi Awaludin
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ Rekursif. dapat membuat bentuk fisis dari suatu benda seperti snowflek. menarik karena dapat membuat snowflake yang lumayan rumit
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Heat diffusion. karena untuk pembuatan code nya menggunakan penulisan matriks yang cukup melelahkan
 
 
 ## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
++ dari semua materi yang disampaikan, saya lebih memahami metode euler dan runge kutta orde 4, serta penerapannya seperti pada fenomena osilasi bandul
 
 
 ## materi yang belum dipahami
