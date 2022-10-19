@@ -3,13 +3,18 @@ Isep Robi Awaludin
 
 
 ## materi sebelumnya
-+ 
++ Rekursif
 + Metode Euler
 + Metode Runge-Kutta orde 4
 + Penyelesaian persamaan ODE
 + Predator Prey
 + Heat difussion model
-+ 
++ Osilasi Harmonis Sederhana
++ Osilasi Teredam 
++ Osilasi Terkopel
++ monte carlo
++ Fourier transform
+
 
 
 ## materi paling menarik
