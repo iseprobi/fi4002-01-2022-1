@@ -1,9 +1,15 @@
-# 1021XABC
-NamaLengkap
+# 10219058
+Isep Robi Awaludin
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ 
++ Metode Euler
++ Metode Runge-Kutta orde 4
++ Penyelesaian persamaan ODE
++ Predator Prey
++ Heat difussion model
++ 
 
 
 ## materi paling menarik
